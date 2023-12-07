@@ -1,4 +1,4 @@
-# Bandit1
+# Bandit1 -> Bandit2
 
 Sau khi lấy được password ở bandit0 và dăngd nhập vào bandit1. 
 
