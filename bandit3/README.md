@@ -2,7 +2,7 @@
 
 test
 
-![Figure 1](img/f3.png)
+![Figure 1](f3.png)
 
 
 
