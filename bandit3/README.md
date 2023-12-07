@@ -1,6 +1,8 @@
 # Bandit3 -> Bandit4
 
+test
 
-![Figure 1](write_up/img/f3.png)
+![Figure 1](img/f3.png)
+
 
 
