@@ -27,3 +27,5 @@ Dùng google tra cách dùng lệnh `find`
 Dùng lện `find` dựa theo hint `1033 bytes in size` của đề ta thấy được 1 file trùng khớp, sau đó ta dùng lệnh `cat` để đọc file thì lấy được password mà chưa dùng tới hint `not executable`.
 
 ![Figure 1](f5.4.png)
+
+> Password:  **P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU**
