@@ -13,3 +13,5 @@ Dùng lệnh `man base64` để xem các tuỳ chọn ta biết được cách d
 Áp dụng vào ta lấy được password
 
 ![Fig1](f10.2.png)
+
+> Password: **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**
