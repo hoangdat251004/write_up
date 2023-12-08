@@ -11,3 +11,4 @@ Dùng tiếp lệnh `ls -a` để xem toàn bộ file, ta thấy và đọc file
 
 ![Figure 1](f3.1.png)
 
+> Password:  **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**
