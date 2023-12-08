@@ -9,3 +9,5 @@
 Sử dụng lệnh ls để xem file, rồi dùng lệnh cat để đọc file readme ta được password
 
 ![Figure 1](0.png)
+
+> Password:  **NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL**
