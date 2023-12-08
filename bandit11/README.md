@@ -16,3 +16,5 @@ Tra google ta thấy đây là ứng dụng của ROT13 và đây là cách đ�
 Áp dụng vào ta tìm được password
 
 ![image](https://github.com/hoangdat251004/write_up/assets/110254118/5b9dbd2a-4917-4cea-9c5e-c778594b3a21)
+
+> Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
