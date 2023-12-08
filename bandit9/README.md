@@ -11,3 +11,5 @@ Tra cách sử dụng lệnh `strings`.
 Ta kết hợp với lệnh `grep` để tìm ra những dòng có dấu `=` bằng ký tự `|` ta lấy được password
 
 ![Fig1](f9.1.png)
+
+> Password: **G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s**
