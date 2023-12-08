@@ -17,3 +17,5 @@ Từ hint ta thấy rằng password được lưu theo cách đặc biệt chỉ
 Áp dụng theo ta lấy được password
 
 ![Figure 1](f8.3.png)
+
+> Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
