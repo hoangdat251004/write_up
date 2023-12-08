@@ -27,3 +27,5 @@ Tra google về vấn đề trên ta có giải pháp:
 Áp dụng lại ta tìm được file khớp với yêu cầu, sử dụng lệnh `cat` ta lấy được password.
 
 ![Figure 1](f6.3.png)
+
+> Password: **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
