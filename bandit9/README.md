@@ -8,6 +8,6 @@ Tra cách sử dụng lệnh `strings`.
 
 ![Fig1](f9.png)
 
-Ta kết hợp với lệnh `grep` với dấu `|` ta lấy được password
+Ta kết hợp với lệnh `grep` để tìm ra những dòng có dấu `=` bằng ký tự `|` ta lấy được password
 
 ![Fig1](f9.1.png)
