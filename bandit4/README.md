@@ -17,3 +17,5 @@ Dùng lệnh `file ~/inhere/*`  để có thể xem được từng loại file 
 Nhận thấy có file07 có thể đọc nên ta dùng lệnh `cat` để đọc và lấy được password.
 
 ![Figure 1](f4.3.png)
+
+> Password:  **lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR**
