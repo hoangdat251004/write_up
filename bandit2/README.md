@@ -11,3 +11,5 @@ Dùng google ta biết được cách đọc loại file này bằng cách thêm
 Ta có được password
 
 ![Figure 1](2.2.png)
+
+> Password:  **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
