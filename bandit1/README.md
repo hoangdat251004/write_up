@@ -12,3 +12,5 @@ Ta thấy có 1 file có tên là một ký tự đặc biệt 1 dấu "-", ta k
 Bằng cách tra google để xem cách đọc file có ký tự "-", em đã tìm ra password.
 
 ![Figure 1](image/1.png)
+
+> Password:  **rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi**
