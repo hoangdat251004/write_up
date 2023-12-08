@@ -13,3 +13,5 @@ Tìm hiểu cách connect qua ssl ta có cách như sau
 Sau khi kết nối ta nhập password hiện tại và lấy được password tiếp theo
 
 ![f15 1](https://github.com/hoangdat251004/write_up/assets/110254118/aa70cecc-828e-4b2d-ba70-86df16136512)
+
+> **Password: JQttfApK4SeyHwDlI9SXGR50qclOAil1**
