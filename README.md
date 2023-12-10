@@ -1,2 +1,2 @@
 ### write_up
-**Write-up cho Bandit-Overthewire**
+**Write-up của Bandit-Overthewire**
