@@ -18,4 +18,4 @@ Sau 60s ta đọc file pass thì lấy được password.
 
 ![f24 2](https://github.com/hoangdat251004/write_up/assets/110254118/b1ce686f-d411-427e-9132-74c3d827f959)
 
-> ** Password: VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar**
+> **Password: VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar**
