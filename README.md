@@ -1,2 +1,2 @@
-# write_up
-Write-up cho tháng thử thách.
+### write_up
+**Write-up cho Bandit-Overthewire**
