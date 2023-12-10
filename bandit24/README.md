@@ -16,3 +16,5 @@ Ta sẽ cấp quyền cho file bash đó.
 Sau khi chạy 1 vài giấy thì ta lấy được password.
 
 ![f24](https://github.com/hoangdat251004/write_up/assets/110254118/0de30ed1-b0d2-4ce2-8efb-2aac522305e3)
+
+> **Passowrd: p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
